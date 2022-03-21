@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: blue;
+}
+
+header {
+    background-color: burlywood;
+}
+
+nav {
+    background-color: lightcoral;
+}
+
+main {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: lightpink;
+}
